@@ -1,8 +1,6 @@
 
-
-
-
 class Routes:
+    BASE_URL = 'https://stellarburgers.nomoreparties.site'
     REGISTER_USER = '/api/auth/register'
     LOGIN_USER = '/api/auth/login'
     EDIT_USER = '/api/auth/user'
@@ -11,4 +9,3 @@ class Routes:
     GET_ORDERS_AUTH = '/api/auth/orders'
 
 
-routes = Routes()
