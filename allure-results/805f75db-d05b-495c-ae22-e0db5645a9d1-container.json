@@ -1,0 +1,1 @@
+{"uuid": "06a958ed-d61b-48e5-b93e-b22c5d2de67c", "children": ["b1d742ed-561c-48b1-aff7-5b055be19847"], "befores": [{"name": "assertions", "status": "passed", "steps": [{"name": "Подготовка кастомных ассертов", "status": "passed", "start": 1718871798878, "stop": 1718871798878}], "start": 1718871798878, "stop": 1718871798879}], "start": 1718871798878, "stop": 1718871801084}
